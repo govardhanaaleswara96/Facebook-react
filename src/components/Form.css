@@ -1,0 +1,12 @@
+.card{
+    background: white;
+    margin-top: -50px;
+    padding: 20px;
+}
+.forgot{
+    text-align: center;
+    margin: 10px;
+}
+.account{
+    background: #5cb832;
+}

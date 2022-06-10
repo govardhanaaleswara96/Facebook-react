@@ -1,0 +1,18 @@
+.img{
+    height: 106px;
+    margin: -28px;
+    margin-bottom:-10px ;
+}
+.heading{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.anchor{
+    background: #1877f2;
+}
+.head{
+    margin-left:-130px;
+}
